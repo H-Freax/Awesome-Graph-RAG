@@ -11,3 +11,13 @@ Welcome to the Awesome Graph Retrieval-Augmented Generation(RAG) List! This repo
 - **nano-graphrag**
   - A simple, easy-to-hack GraphRAG implementation 
   - [Code](https://github.com/gusye1234/nano-graphrag)
+
+- **RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph**
+  - [Paper](https://arxiv.org/pdf/2410.14684)
+ 
+- **CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**
+  - [Paper](https://arxiv.org/pdf/2408.03910)
+
+
+- **CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation**
+  - [Paper](https://arxiv.org/pdf/2405.02355)
