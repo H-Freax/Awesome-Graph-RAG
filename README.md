@@ -21,3 +21,7 @@ Welcome to the Awesome Graph Retrieval-Augmented Generation(RAG) List! This repo
 
 - **CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation**
   - [Paper](https://arxiv.org/pdf/2405.02355)
+
+- **GraphRAG-SDK (FalkorDB)**
+  - A GraphRAG SDK that builds knowledge graphs from unstructured data and answers questions over them, using FalkorDB as the graph store
+  - [Code](https://github.com/FalkorDB/GraphRAG-SDK)
